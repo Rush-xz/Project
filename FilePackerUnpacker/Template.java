@@ -182,11 +182,11 @@ class Template extends JFrame implements ActionListener
         _header.add(dayLable);
     }
 
-   /* public static void main(String arg[])
+    public static void main(String arg[])
     {
         Template obj = new Template();
-        obj.setSize(800,600);
+        obj.setSize(1000,500);
         obj.setVisible(true);
 
-    }*/
+    }
 }
